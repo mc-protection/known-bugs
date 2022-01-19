@@ -34,6 +34,7 @@ assignees: yooniks, NoJokeFNA
 
 ## Your Environment
 <!--- Include as many relevant details about the environment you experienced the bug in -->
+* Product used:
 * Version used:
 * Java Version used:
 * Distro used (Debian, Ubuntu, ...):
