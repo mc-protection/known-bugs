@@ -13,13 +13,11 @@
 	<li>Bug 1
 			<ul>
 				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
-				<li>This bug do be thicc doe.</li>
 			</ul>
 	</li>
   <li>Bug 2
 			<ul>
 				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
-				<li>This bug is flat, like your mom.</li>
 			</ul>
 	</li>
 		</ul>
@@ -36,13 +34,11 @@
 	<li>Bug 1
 			<ul>
 				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
-				<li>This bug do be thicc doe.</li>
 			</ul>
 	</li>
   <li>Bug 2
 			<ul>
 				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
-				<li>This bug is flat, like your mom.</li>
 			</ul>
 	</li>
 		</ul>
@@ -59,13 +55,11 @@
 	<li>Bug 1
 			<ul>
 				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
-				<li>This bug do be thicc doe.</li>
 			</ul>
 	</li>
   <li>Bug 2
 			<ul>
 				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
-				<li>This bug is flat, like your mom.</li>
 			</ul>
 	</li>
 		</ul>
