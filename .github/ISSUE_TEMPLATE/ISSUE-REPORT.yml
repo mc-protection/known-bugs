@@ -49,6 +49,12 @@ body:
       description: You may include a video link, screenshots or detailed steps to reproduce the bug/error.
     validations:
       required: true
+  - type: textarea
+    attributes:
+      label: Possible fix.
+      description: Mention any possible fix you have on mind.
+    validations:
+      required: false
   - type: input
     attributes:
       label: Product version
