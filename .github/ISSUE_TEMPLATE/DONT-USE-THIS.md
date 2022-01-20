@@ -1,5 +1,5 @@
 ---
-name: Issue template
+name: DONT-USE-THIS
 about: Issue template
 title: ''
 labels: bug
