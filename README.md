@@ -12,12 +12,12 @@
 	<ul>
 	<li>Aegis error from PingHandler class
 			<ul>
-				<li>#2</li>
+				<li><a href="https://github.com/mc-protection/known-bugs/issues/2">#2</a></li>
 			</ul>
 	</li>
   <li>Class not found exception
 			<ul>
-				<li>#3</li>
+				<li><a href="https://github.com/mc-protection/known-bugs/issues/3">#3</a></li>
 			</ul>
 	</li>
 		</ul>
