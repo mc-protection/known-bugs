@@ -10,14 +10,14 @@
 	<summary>Aegis' known bugs</summary>
 	<br>
 	<ul>
-	<li>Bug 1
+	<li>Aegis error from PingHandler class
 			<ul>
-				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
+				<li>#2</li>
 			</ul>
 	</li>
-  <li>Bug 2
+  <li>Class not found exception
 			<ul>
-				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
+				<li>#3</li>
 			</ul>
 	</li>
 		</ul>
