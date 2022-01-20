@@ -1,0 +1,69 @@
+name: Bug Report
+description: File a bug report
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Before reporting a bug here, please make sure you are on the latest version of respective MCP product
+  - type: dropdown
+    id: product
+    attributes:
+      label: Which MCP product you're having trouble with?
+      multiple: false
+      options:
+        - Aegis
+        - Spigot Guard
+        - Atom Spigot
+        - Cerberus
+        - LobbySystem
+        - RedstoneGuard
+  - type: textarea
+    attributes:
+      label: Description
+      description: |
+        Please describe what issue you're facing.
+    validations:
+      required: false
+  - type: input
+    attributes:
+      label: Stackrace print/logs link
+      description: Paste stackrace print or logs here, please use paste.gg or similar paste bins.
+      placeholder: https://paste.gg/afreakinerror
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Expected behavior
+      description: How it supposed to work.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Actual behavior
+      description: How it actually worked.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce this bug/error.
+      description: You may include a video link, screenshots or detailed steps to reproduce the bug/error.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Product version
+      description: Type `/<product>` in console or in-game to get current version of respective MCP product you're using and having issues with, for example `/aegis`
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: Agreement
+      description: Please agree to the following.
+      options:
+        - label: I am running the latest version of respective MCP product I'm having issues with, from https://mc-protection.eu/products.
+          required: true
+        - label: I have checked for and confirmed there isn't already a similar issue opened.
+          required: true
+        - label: My version of Spigot/Paper/fork is supported by respective MCP product, this does not apply to Atom spigot, so just check this box in that case.
+          required: true
+
