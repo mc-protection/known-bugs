@@ -70,6 +70,6 @@ body:
           required: true
         - label: I have checked for and confirmed there isn't already a similar issue opened.
           required: true
-        - label: My version of Spigot/Paper/fork is supported by respective MCP product, this does not apply to Atomspigot, so just check this box in that case.
+        - label: My version of Spigot/Paper/fork is supported by respective MCP product, this does not apply to AtomSpigot, so just check this box in that case.
           required: true
 
