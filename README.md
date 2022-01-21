@@ -15,11 +15,6 @@
 				<li><a href="https://github.com/mc-protection/known-bugs/issues/2">#2</a></li>
 			</ul>
 	</li>
-  <li>Class not found exception
-			<ul>
-				<li><a href="https://github.com/mc-protection/known-bugs/issues/3">#3</a></li>
-			</ul>
-	</li>
 		</ul>
 </details>
 
@@ -52,14 +47,9 @@
 	<summary>Atom Spigot's known bugs</summary>
 	<br>
 	<ul>
-	<li>Bug 1
+ 	<li>Class not found exception
 			<ul>
-				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
-			</ul>
-	</li>
-  <li>Bug 2
-			<ul>
-				<li><a href="https://githubissuelink.com/pasteyourissuelinkhere">#3h2v4(Github issue link)</a></li>
+				<li><a href="https://github.com/mc-protection/known-bugs/issues/3">#3</a></li>
 			</ul>
 	</li>
 		</ul>
