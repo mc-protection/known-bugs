@@ -61,6 +61,18 @@ body:
       description: Type `/<product>` in console or in-game to get current version of respective MCP product you're using and having issues with, for example `/aegis`
     validations:
       required: true
+  - type: input
+    attributes:
+      label: Java version
+      description: Please enter the Java version you''re using.
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: Distribution used
+      description: Please specify operating system you''re running our product(s) on, if you''re on a shared hosting then ask hosting staff for Distribution and it''s version
+    validations:
+      required: true
   - type: checkboxes
     attributes:
       label: Agreement
