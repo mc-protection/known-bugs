@@ -78,7 +78,7 @@ body:
       label: Agreement
       description: Please agree to the following.
       options:
-        - label: I am running the latest version of respective MCP product I'm having issues with, from https://mc-protection.eu/products.
+        - label: I am running the latest version of respective MCP product I'm having issues with, from https://mcprotection.eu/products.
           required: true
         - label: I have checked for and confirmed there isn't already a similar issue opened.
           required: true
